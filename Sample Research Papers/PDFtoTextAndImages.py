@@ -99,5 +99,5 @@ def extract_pdf_content(pdf_path):
 
 
 # Example usage
-# pdf_path = "Letter to the Editor- Depression As The First Symptom Of Frontal Lobe Grade 2 Malignant Glioma.pdf"
-# extract_pdf_content(pdf_path)
+pdf_path = "AllNo.pdf"
+extract_pdf_content(pdf_path)
